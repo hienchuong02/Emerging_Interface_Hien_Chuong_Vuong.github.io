@@ -325,7 +325,6 @@ footer {
 }
 footer .container {
   padding-top: 10px;
-  position: fixed;
 }
 footer .container .fa {
   width: 16px;

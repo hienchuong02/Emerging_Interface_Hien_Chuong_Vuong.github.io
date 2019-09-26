@@ -6,12 +6,3 @@
 .pages div{
     padding-bottom: .5em;
 }
-.footer {
-    position: fixed;
-    left: 0;
-    bottom: 0;
-    width: 100%;
-    background-color: orangered;
-    color: white;
-    text-align: center;
- }
