@@ -6,3 +6,14 @@
 .pages div{
     padding-bottom: .5em;
 }
+header{
+    position: fixed;
+}
+footer{
+    position: relative;
+    left: 0;
+    bottom: 0;
+    width: auto;
+    height: auto;
+    text-align: center;
+}
